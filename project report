@@ -1,0 +1,12 @@
+Project Report: Voice-Controlled Desktop Assistant (Simplified Jarvis)
+​1. Introduction
+​This report details the development and functionality of a basic Voice-Controlled Desktop Assistant, a Python application designed to execute simple tasks and retrieve information based on spoken commands. The goal was to create a functional, modular system that integrates core artificial intelligence capabilities (speech recognition and text-to-speech) with web automation tools.
+​2. Project Objectives
+​The primary objectives for this project were:
+​Develop Core I/O: Implement reliable bidirectional communication using voice input (Speech-to-Text) and voice output (Text-to-Speech).
+​Time-Based Greetings: Implement logic to greet the user appropriately based on the current time of day.
+​Information Retrieval: Enable seamless searching of information via Wikipedia and Google.
+​Web Automation: Provide controls for initiating common web actions, such such as playing media on YouTube and opening specific websites.
+​Modular Design: Structure the code using functions (talk, take_command, run_jarvis) for clarity, easy maintenance, and scalability.
+​3. Technology Stack
+​The project is built entirely on the Python programming language, utilizing several specialized third-party libraries:
